@@ -17,8 +17,11 @@ print(age)
 
 age=str(age)
 print(age)
+
 print(type(age))
+
 age+="1"
 print(age)
+
 name=bool(name)
 print(name)
