@@ -28,7 +28,7 @@ while running:
     else:
         print("You lose!")
 
-    if not input("Play again? (y/n): ").lower() == "y":
+    if not input("play again? (y/n): ").lower()== "y":
         running = False
 
 print("Thanks for playing!")
