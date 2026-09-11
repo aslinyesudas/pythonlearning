@@ -16,3 +16,8 @@ def multiply(x, y):
 def divide(x, y):
     z = x/y
     return z
+
+print(3)
+print(-1)
+print(2)
+print(divide(1, 2))
