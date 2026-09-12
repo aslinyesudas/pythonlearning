@@ -1,6 +1,1 @@
-print("Helo world!")
-print("Good morning everyone!")
-print("Have nice day!")
-print("Hi how are you??")
-print("What is your name??")
-print("Hellooo....")
+print("Hello world!")
