@@ -12,3 +12,11 @@ if letter in word:
 else:
     print(f"{letter} was not found")
 
+students = {"Spongebob", "patrick", "sandy"}
+
+student = input("Enter the name of a student: ")
+
+if student in students:
+    print(f"{student} is a student")
+else:
+    print(f"{student} was not found")
