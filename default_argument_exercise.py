@@ -6,4 +6,4 @@ def count(end, start =0):
         time.sleep(1)
     print("DONE!")
 
-count(15, 30)
+count(10)

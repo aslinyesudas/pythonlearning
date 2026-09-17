@@ -32,3 +32,10 @@ if student in gardes:
     print(f"{student}'s grade is {grades[student]}")
 else:
     print(f"{student} was not found")
+
+email = "aslinyesudas@gamil.com"
+
+if "@" in email and "." in email:
+    print("Valid email")
+else:
+    print("InValid email")
