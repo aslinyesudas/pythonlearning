@@ -58,5 +58,15 @@ def main():
                 if answer[i] == guess:
                     hint[i] = guess
 
+        else:
+            wrong_guesses += 1
+
+        if "_" not in hint:
+            display_man(wrong_guesses)
+        
+    
+        
+        
+
 if __name__ == '__main__':
     main()
