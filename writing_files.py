@@ -9,3 +9,4 @@ with open(file_path, "w") as file:
     print(f"txt file '{file_path}' was created")
 
 
+print()
