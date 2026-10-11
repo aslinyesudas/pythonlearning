@@ -26,4 +26,3 @@ if pokemon_info:
 
 
     
-print()
