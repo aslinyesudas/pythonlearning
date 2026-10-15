@@ -25,4 +25,4 @@ if pokemon_info:
     print(f"{pokemon_info["weight"]}")
 
 
-    print()
+    
